@@ -10,14 +10,14 @@ Explore the UI in action:
 
 | Desktop & Mobile Views         | Description                  |
 |-------------------------------|------------------------------|
-| SC/1.png`                     | Homepage                     |
-| SC/2.png`                     | Beaches Section              |
-| SC/3.png`                     | Heritage Sites               |
-| SC/4.png`                     | Local Cuisine                |
-| SC/5.png`                     | Festival Calendar            |
-| SC/6.png`                     | Gallery / Visual Highlights  |
-| SC/7.png`                     | Contact Form                 |
-| SC/8.png`                     | Mobile Responsive Layout     |
+| SC/1.png                     | Homepage                     |
+| SC/2.png                     | Beaches Section              |
+| SC/3.png                     | Heritage Sites               |
+| SC/4.png                     | Local Cuisine                |
+| SC/5.png                     | Festival Calendar            |
+| SC/6.png                     | Gallery / Visual Highlights  |
+| SC/7.png                     | Contact Form                 |
+| SC/8.png                     | Mobile Responsive Layout     |
 
 ---
 

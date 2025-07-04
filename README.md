@@ -8,18 +8,16 @@ A sleek, modern tourism website that highlights the **beauty, culture, and soul 
 
 Explore the UI in action:
 
-| Desktop & Mobile Views         | Description                  |
-|-------------------------------|------------------------------|
-| SC/1.png                     | Homepage                     |
-| SC/2.png                     | Beaches Section              |
-| SC/3.png                     | Heritage Sites               |
-| SC/4.png                     | Local Cuisine                |
-| SC/5.png                     | Festival Calendar            |
-| SC/6.png                     | Gallery / Visual Highlights  |
-| SC/7.png                     | Contact Form                 |
-| SC/8.png                     | Mobile Responsive Layout     |
-
----
+<p float="left">
+  <img src="./SC/1.png" width="250"/>
+  <img src="./SC/2.png" width="250"/>
+  <img src="./SC/3.png" width="250"/>
+    <img src="./SC/4.png" width="250"/>
+    <img src="./SC/5.png" width="250"/>
+    <img src="./SC/6.png" width="250"/>
+    <img src="./SC/7.png" width="250"/>
+   <img src="./SC/8.png" width="250"/>
+</p>
 
 ## 🚀 Features
 
